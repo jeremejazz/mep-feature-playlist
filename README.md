@@ -1,12 +1,12 @@
 mep-feature-playlist -  A playlist plugin for MediaElement.js
 =
-[Demo] (http://andrewberezovsky.ru/demo/backgroundaudio7/)
+[Demo] (http://jeremejazz.github.io/mep-feature-playlist/)
 
 Usage:
 
 1 - Download **[MediaElement.js] (http://mediaelementjs.com/)**
 
-2 - Download **[mep-feature-playlist] (https://github.com/duozersk/mep-feature-playlist/archive/master.zip)**
+2 - Download **[mep-feature-playlist] (https://github.com/jeremejazz/mep-feature-playlist/archive/master.zip)**
 
 3 - Include
 
